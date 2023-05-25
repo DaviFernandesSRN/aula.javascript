@@ -1,0 +1,21 @@
+//var lista = ["flamengo", "vasco", "fluminense", "botafogo"];
+//retira o ultimo item 
+//lista.pop();
+
+//acrescenta na lista um item 
+//lista.push("nova iguaçu")
+
+
+//alert (lista[2]);
+//console.log(lista[0]);
+//console.log(lista.toString()[0]);
+//quantidade de itens minha lista
+//console.log(lista.length)
+//console.log(lista.join(" "));
+
+
+//DICIONÁRIO
+
+// var clubes= [{Time: "flamengo" , estado: "RJ", Idolo: "zico"}, {Time: "Vasco", Idolo: "Dinamite", estado: "RJ"}]
+// console.log(clubes[1].Idolo);
+// console.log(clubes)
